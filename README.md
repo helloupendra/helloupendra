@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloupendra&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
 <h2>About Me</h2>
 <p>
   Hello! I'm Upendra Singh Chauhan, a dedicated and passionate Software Engineer with over 5 years of experience in the field. My journey in software development has equipped me with a strong foundation in various programming languages, databases, and frameworks. I am committed to building efficient, scalable, and user-friendly software solutions.
@@ -36,8 +32,7 @@
 <ul>
   <li>MySQL</li>
   <li>PostgreSQL</li>
-  <li>MongoDB</li>
-</ul>
+  <li>MongoDB</ul>
 
 <h3>Industry Knowledge</h3>
 <ul>
