@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/upendra-singh-chauhan">
-    <img src="https://img.shields.io/github/followers/upendra-singh-chauhan?label=Follow&style=social" alt="GitHub Badge">
+  <a href="https://github.com/helloupendra">
+    <img src="https://img.shields.io/github/followers/helloupendra?label=Follow&style=social" alt="GitHub Badge">
   </a>
-  <a href="https://www.linkedin.com/in/upendra-singh-chauhan/">
+  <a href="https://www.linkedin.com/in/upendrasingh12/">
     <img src="https://img.shields.io/badge/LinkedIn-Upendra%20Singh%20Chauhan-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upendra-singh-chauhan&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=helloupendra&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <h2>About Me</h2>
@@ -61,7 +61,7 @@
   <li>Amazon Web Services (AWS)</li>
 </ul>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 <p>Here are a few notable projects I've worked on:</p>
 
 <h3>Project Name 1</h3>
@@ -74,19 +74,14 @@
 
 <h3>Project Name 3</h3>
 <p><strong>Description:</strong> Briefly describe the project, its purpose, and technologies used.</p>
-<p><strong>Technologies:</strong> List the main technologies, frameworks, and tools used.</p>
+<p><strong>Technologies:</strong> List the main technologies, frameworks, and tools used.</p> -->
 
 <h2>Contact Me</h2>
 <p>Feel free to reach out if you have any questions or if you would like to collaborate on a project.</p>
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/upendra-singh-chauhan/">Your LinkedIn Profile</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/upendra-singh-chauhan">Your GitHub Profile</a></li>
+  <li><strong>Email:</strong> <a href="mailto:upendrarbt@gmail.com">upendrarbt@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/upendrasingh12/">@upendrasingh12</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/helloupendra">@helloupendra</a></li>
 </ul>
 
-<h2>Conclusion</h2>
 <p>Thank you for visiting my GitHub profile. I am always eager to learn new things and take on challenging projects. Let's create something amazing together!</p>
-
----
-
-<p><em>Note: Update the placeholder links and project descriptions with actual information before using this README.</em></p>
