@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloupendra&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
 <h2>About Me</h2>
 <p>
   Hello! I'm Upendra Singh Chauhan, a dedicated and passionate Software Engineer with over 5 years of experience in the field. My journey in software development has equipped me with a strong foundation in various programming languages, databases, and frameworks. I am committed to building efficient, scalable, and user-friendly software solutions.
@@ -70,6 +66,18 @@
     </td>
   </tr>
 </table>
+
+<h2>Expertise</h2>
+<p>
+  With a keen interest in solving complex problems and a deep understanding of software development principles, I have successfully delivered numerous projects across various domains. My expertise lies in:
+</p>
+<ul>
+  <li>Developing scalable web applications</li>
+  <li>Designing and implementing RESTful APIs</li>
+  <li>Leveraging cloud infrastructure for optimized performance</li>
+  <li>Applying machine learning algorithms to real-world problems</li>
+  <li>Creating intuitive and dynamic front-end interfaces</li>
+</ul>
 
 <!-- <h2>Projects</h2>
 <p>Here are a few notable projects I've worked on:</p>
