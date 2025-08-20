@@ -1,105 +1,79 @@
 <h1 align="center">👋 Hi, I'm Upendra Singh Chauhan</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-5%2B%20years-blue" alt="Experience Badge">
-  <img src="https://img.shields.io/badge/Location-India-green" alt="Location Badge">
+  <a href="https://github.com/helloupendra">
+    <img src="https://komarev.com/ghpvc/?username=helloupendra&style=flat-square" alt="GitHub Visitors">
+  </a>
+  <a href="https://github.com/helloupendra">
+    <img src="https://img.shields.io/github/followers/helloupendra?label=Follow&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/helloupendra">
-    <img src="https://img.shields.io/github/followers/helloupendra?label=Follow&style=social" alt="GitHub Badge">
-  </a>
   <a href="https://www.linkedin.com/in/upendrasingh12/">
-    <img src="https://img.shields.io/badge/LinkedIn-Upendra%20Singh%20Chauhan-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Upendra%20Singh%20Chauhan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:upendrarbt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-upendrarbt@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge">
   </a>
 </p>
 
-<h2>About Me</h2>
-<p>
-  Hello! I'm Upendra Singh Chauhan, a dedicated and passionate Software Engineer with over 5 years of experience in the field. My journey in software development has equipped me with a strong foundation in various programming languages, databases, and frameworks. I am committed to building efficient, scalable, and user-friendly software solutions.
+---
+
+### 👨‍💻 About Me
+
+I am a passionate **Software Engineer** with over **5 years** of experience in designing and developing robust, scalable, and user-friendly software solutions. My expertise lies in building dynamic web applications and backend systems, with a strong focus on clean code and efficient problem-solving.
+
+---
+
+### 🛠️ My Tech Stack
+
+I am proficient in a variety of technologies, with a core focus on **Python** for backend development and **React.js** for building interactive user interfaces.
+
+<br>
+
+<div align="center">
+  <h4>Languages & Frameworks</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript Badge">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI Badge">
+  <img src="https://img.shields.io/badge/REST_API-005178?style=flat&logo=rest&logoColor=white" alt="REST API Badge">
+  <br>
+  <h4>Databases & Cloud</h4>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Badge">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Badge">
+  <br>
+  <h4>Tools & Concepts</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
+</div>
+
+---
+
+### 🚀 Projects
+
+Here are a few of my notable projects. Feel free to explore my repositories to see more of my work!
+
+* **[Project Name 1](https://github.com/your-username/your-repo-name):** A one-sentence description of the project and its core functionality. **(Replace with your project)**
+* **[Project Name 2](https://github.com/your-username/your-repo-name):** A one-sentence description of the project and its core functionality. **(Replace with your project)**
+* **[Project Name 3](https://github.com/your-username/your-repo-name):** A one-sentence description of the project and its core functionality. **(Replace with your project)**
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloupendra&layout=compact&theme=dark" alt="Top Languages">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=helloupendra&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
+
+---
+
+<p align="center">
+  Thank you for visiting! I am always open to new opportunities and collaborations.
 </p>
-
-<h2>Skills</h2>
-
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Programming Languages</h3>
-      <ul>
-        <li>Python</li>
-        <li>React JS</li>
-        <li>TypeScript</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>Databases</h3>
-      <ul>
-        <li>MySQL</li>
-        <li>PostgreSQL</li>
-        <li>MongoDB</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Industry Knowledge</h3>
-      <ul>
-        <li>Data Structures and Algorithms (DSA)</li>
-        <li>Object-Oriented Programming (OOP)</li>
-        <li>Database Management Systems (DBMS)</li>
-        <li>Machine Learning</li>
-        <li>Natural Language Processing (NLP)</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>Frameworks & Tools</h3>
-      <ul>
-        <li>REST API</li>
-        <li>Postman</li>
-        <li>Flask</li>
-        <li>FastAPI</li>
-      </ul>
-      <h3>Cloud Services</h3>
-      <ul>
-        <li>Amazon Web Services (AWS)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<h2>Expertise</h2>
-<p>
-  With a keen interest in solving complex problems and a deep understanding of software development principles, I have successfully delivered numerous projects across various domains. My expertise lies in:
-</p>
-<ul>
-  <li>Developing scalable web applications</li>
-  <li>Designing and implementing RESTful APIs</li>
-  <li>Leveraging cloud infrastructure for optimized performance</li>
-  <li>Applying machine learning algorithms to real-world problems</li>
-  <li>Creating intuitive and dynamic front-end interfaces</li>
-</ul>
-
-<!-- <h2>Projects</h2>
-<p>Here are a few notable projects I've worked on:</p>
-
-<h3>Project Name 1</h3>
-<p><strong>Description:</strong> Briefly describe the project, its purpose, and technologies used.</p>
-<p><strong>Technologies:</strong> List the main technologies, frameworks, and tools used.</p>
-
-<h3>Project Name 2</h3>
-<p><strong>Description:</strong> Briefly describe the project, its purpose, and technologies used.</p>
-<p><strong>Technologies:</strong> List the main technologies, frameworks, and tools used.</p>
-
-<h3>Project Name 3</h3>
-<p><strong>Description:</strong> Briefly describe the project, its purpose, and technologies used.</p>
-<p><strong>Technologies:</strong> List the main technologies, frameworks, and tools used.</p> -->
-
-<h2>Contact Me</h2>
-<p>Feel free to reach out if you have any questions or if you would like to collaborate on a project.</p>
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:upendrarbt@gmail.com">upendrarbt@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/upendrasingh12/">@upendrasingh12</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/helloupendra">@helloupendra</a></li>
-</ul>
-
-<p>Thank you for visiting my GitHub profile. I am always eager to learn new things and take on challenging projects. Let's create something amazing together!</p>
