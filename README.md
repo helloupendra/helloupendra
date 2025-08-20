@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hi, I'm Upendra Singh Chauhan</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helloupendra&style=flat-square" alt="Profile views counter">
   <a href="https://github.com/helloupendra">
-    <img src="https://komarev.com/ghpvc/?username=helloupendra&style=flat-square" alt="GitHub Visitors">
-  </a>
-  <a href="https://github.com/helloupendra">
-    <img src="https://img.shields.io/github/followers/helloupendra?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/helloupendra?label=Follow&style=social" alt="GitHub followers">
   </a>
 </p>
 
@@ -56,24 +54,16 @@ I am proficient in a variety of technologies, with a core focus on **Python** fo
 
 ---
 
-### 🚀 Projects
+### 💡 What I'm Learning
 
-Here are a few of my notable projects. Feel free to explore my repositories to see more of my work!
+I am constantly expanding my knowledge. Currently, I am focused on deepening my understanding of:
 
-* **[Project Name 1](https://github.com/your-username/your-repo-name):** A one-sentence description of the project and its core functionality. **(Replace with your project)**
-* **[Project Name 2](https://github.com/your-username/your-repo-name):** A one-sentence description of the project and its core functionality. **(Replace with your project)**
-* **[Project Name 3](https://github.com/your-username/your-repo-name):** A one-sentence description of the project and its core functionality. **(Replace with your project)**
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloupendra&layout=compact&theme=dark" alt="Top Languages">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=helloupendra&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
+* **Machine Learning**
+* **Natural Language Processing (NLP)**
+* **Advanced Data Structures and Algorithms (DSA)**
 
 ---
 
 <p align="center">
-  Thank you for visiting! I am always open to new opportunities and collaborations.
+  Thank you for visiting my profile! I am always open to new opportunities and collaborations. Let's connect and build something amazing together.
 </p>
