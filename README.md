@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/upendrasingh12/">
     <img src="https://img.shields.io/badge/LinkedIn-Upendra%20Singh%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:upendrarbt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-upendrarbt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:upendrachauhanrbt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-upendrachauhanrbt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://openfno.com">
     <img src="https://img.shields.io/badge/Live-openfno.com-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="openfno.com" />
@@ -206,5 +206,5 @@ their state, and recovering when one of them fails.
 <p align="center">
   Open to senior backend, full-stack and platform roles — and to a good conversation about any of the above.<br/>
   <a href="https://www.linkedin.com/in/upendrasingh12/">LinkedIn</a> ·
-  <a href="mailto:upendrarbt@gmail.com">upendrarbt@gmail.com</a>
+  <a href="mailto:upendrachauhanrbt@gmail.com">upendrachauhanrbt@gmail.com</a>
 </p>
