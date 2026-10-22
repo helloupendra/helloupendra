@@ -2,7 +2,7 @@
 
 <p align="center">
   Software engineer · 6+ years · India<br/>
-  Backends, web applications, applied machine learning — and the infrastructure that keeps them running.
+  Backends, web and native apps, voice and AI assistants — and the infrastructure that keeps them running.
 </p>
 
 <p align="center">
@@ -41,6 +41,8 @@
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
     </td>
@@ -73,6 +75,8 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -100,6 +104,35 @@
 ---
 
 ## Featured work
+
+### 🎙️ Ira — a self-hosted voice assistant you can trust with your own data
+
+[source](https://github.com/helloupendra/ira) · [docs](https://helloupendra.github.io/ira/)
+&nbsp;·&nbsp; `Python` `FastAPI` `Swift` `Kotlin` `AWS`
+
+"Hey Ira": one assistant for a person or a business, running on their own server, over
+their own tools and devices. You talk to it in Hindi, English or Hinglish, by text or by
+voice, from the web, a Mac, an Android phone, an iPhone or Telegram.
+
+- **Real-time voice** over one WebSocket protocol: speech-to-text streamed from Amazon
+  Transcribe, the model's answer streamed sentence by sentence into Polly, and barge-in.
+  The first answer audio arrives 1.7–2.2 s (median) after you stop speaking, as
+  [measured](https://github.com/helloupendra/ira/blob/main/docs/realtime.md#measured)
+  on the server.
+- **Native clients** that pair as devices: a SwiftUI menu-bar app for the Mac (files, screen
+  text read on the Mac, contacts, calendar, mail drafts, coding tasks in a sandboxed git
+  worktree) and a Kotlin app for Android (calls, contacts, messages, notifications).
+- **Safety in the design, not the prompt.** Every tool has a tier fixed in code: reads run,
+  small actions are reported, outward actions are read back and need a "yes", and money,
+  deletion or pushing code needs a PIN typed by the person. Anything a tool returns reaches
+  the model marked as untrusted data, so a web page or an email cannot trigger an action.
+- **Connections to anything** through MCP (with OAuth), with tiers taken from the tool's
+  own annotations and only ever made stricter, plus a connector kit for any business API.
+- **Learning that has to prove itself.** It notices routines only when switched on, and
+  remembers one only after enough days of evidence *and* the person's yes; a sentence
+  carrying a number it did not observe is refused.
+- Any model provider with fallback chains and per-call cost; 680+ tests across the server
+  and both apps.
 
 ### 🏦 OpenFNO — an algo-trading desk for Indian F&O
 
